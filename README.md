@@ -1,4 +1,3 @@
 # SchoolBook
 
-Installation de Faker :
-->  composer require fzaninotto/faker
+Projet en cours de conception pour apprendre à créer un réseau social et pratiquer les requêtes SQL. 
